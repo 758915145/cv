@@ -1,2 +1,2 @@
 ##个人简历##
-地址：[https://github.com/758915145/cv](https://github.com/758915145/cv)
+地址：[个人简历](https://rawgit.com/758915145/cv/master/index.html)
